@@ -61,9 +61,9 @@ python app.py
 ---
 
 ## Screenshots
-### App Main Screen
-![App Main Screen](images/class_diagram.png)
-![App Main Screen](https://github.com/username/repository/blob/master/img/octocat.png)
+### App Screen
+![App Screen](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg)
+
 
 
 ---

@@ -78,7 +78,7 @@ This diagram shows the architecture of the LSTM neural network used for human ac
 ## Class Diagram
 The `class_diagram.png` file provides a UML class diagram of the main components and their relationships in the Personal Fitness App. It helps visualize the software architecture, showing the key classes (such as user management, activity recognition, and UI screens), their attributes, methods, and how they interact within the application:
 
-![Class Diagram](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/class_diagram.png)
+![Class Diagram](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/class_diagram.jpg)
 
 ---
 

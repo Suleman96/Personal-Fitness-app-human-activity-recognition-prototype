@@ -85,23 +85,9 @@ cython_debug/
 Thumbs.db
 
 # Model files
-*.h5
 *.tflite
 *.pkl
 *.joblib
-
-# Database
-*.db
-
-# PDF, Excel, and other large generated docs
-*.pdf
-*.xlsx
-
-# Images (if generated, not source)
-*.png
-*.jpg
-*.jpeg
-*.drawio
 
 # License images
 license.PNG

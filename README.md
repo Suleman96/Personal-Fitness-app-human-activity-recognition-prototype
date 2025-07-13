@@ -61,17 +61,15 @@ python app.py
 ---
 
 ## Screenshots
-### App Main Screen
-![App Main Screen](images/class_diagram.png)
-![App Main Screen](https://github.com/username/repository/blob/master/img/octocat.png)
+### App Screen
+<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg" alt="App Screen" width="250"/>
 
 
 ---
 
 ## LSTM Model Architecture
 This diagram shows the architecture of the LSTM neural network used for human activity recognition in this project:
-
-![LSTM Model Architecture](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/lstm_model.png)
+<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/lstm_model.png" alt="App Screen" width="300"/>
 
 ---
 
@@ -97,7 +95,7 @@ This project is for educational purposes. See `show_licenses.py` for license inf
 
 A summary of the main Python package licenses used in this project is provided in the image below:
 
-![License Table](images/package_licenses.png)
+<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/package_licenses.png" alt="App Screen" width="300"/>
 
 ---
 

@@ -63,20 +63,22 @@ python app.py
 ## Screenshots
 ### App Main Screen
 ![App Main Screen](images/class_diagram.png)
+![App Main Screen](https://github.com/username/repository/blob/master/img/octocat.png)
+
 
 ---
 
 ## LSTM Model Architecture
 This diagram shows the architecture of the LSTM neural network used for human activity recognition in this project:
 
-![LSTM Model Architecture](images/lstm_model.png)
+![LSTM Model Architecture](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/lstm_model.png)
 
 ---
 
 ## Class Diagram
 The `class_diagram.png` file provides a UML class diagram of the main components and their relationships in the Personal Fitness App. It helps visualize the software architecture, showing the key classes (such as user management, activity recognition, and UI screens), their attributes, methods, and how they interact within the application:
 
-![Class Diagram](images/class_diagram.png)
+![Class Diagram](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/class_diagram.png)
 
 ---
 

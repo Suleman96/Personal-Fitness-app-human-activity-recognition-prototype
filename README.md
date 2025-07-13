@@ -95,8 +95,6 @@ This project is for educational purposes. See `show_licenses.py` for license inf
 
 A summary of the main Python package licenses used in this project is provided in the image below:
 
-![Licences](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg)
-
 <img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/package_licenses.png" alt="Licences"/>
 
 ---

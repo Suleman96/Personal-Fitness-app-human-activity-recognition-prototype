@@ -62,14 +62,14 @@ python app.py
 
 ## Screenshots
 ### App Screen
-<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg" alt="App Screen" width="200"/>
+<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg" alt="App Screen" width="250"/>
 
 
 ---
 
 ## LSTM Model Architecture
 This diagram shows the architecture of the LSTM neural network used for human activity recognition in this project:
-<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/lstm_model.png" alt="App Screen" width="200"/>
+<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/lstm_model.png" alt="App Screen" width="300"/>
 
 ---
 

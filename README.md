@@ -62,7 +62,7 @@ python app.py
 
 ## Screenshots
 ### App Screen
-![App Screen](https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg)
+![App Screen](<img src="https://github.com/Suleman96/Personal-Fitness-app-human-activity-recognition-prototype/blob/main/images/app_screen.jpg" alt="App Screen" width="350"/>)
 
 
 

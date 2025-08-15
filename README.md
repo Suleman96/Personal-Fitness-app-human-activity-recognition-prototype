@@ -40,7 +40,6 @@ This project is a prototype of a personal fitness application that uses machine 
 ```bash
 python app.py
 ```
-
 ---
 
 ## Project Structure
